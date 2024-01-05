@@ -1,2 +1,3 @@
 # namor-demo
-This is my first Git repositoru
+This is my first Git repository.
+Author - Namor
